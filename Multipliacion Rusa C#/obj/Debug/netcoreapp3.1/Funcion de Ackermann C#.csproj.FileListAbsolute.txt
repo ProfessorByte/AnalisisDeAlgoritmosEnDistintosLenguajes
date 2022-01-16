@@ -1,0 +1,26 @@
+E:\EstructuraSemantica_ProyectoFinal\Funcion de Ackermann C#\obj\Debug\netcoreapp3.1\Funcion de Ackermann C#.csprojAssemblyReference.cache
+E:\EstructuraSemantica_ProyectoFinal\Funcion de Ackermann C#\obj\Debug\netcoreapp3.1\Funcion de Ackermann C#.AssemblyInfoInputs.cache
+E:\EstructuraSemantica_ProyectoFinal\Funcion de Ackermann C#\obj\Debug\netcoreapp3.1\Funcion de Ackermann C#.AssemblyInfo.cs
+E:\EstructuraSemantica_ProyectoFinal\Funcion de Ackermann C#\obj\Debug\netcoreapp3.1\Funcion de Ackermann C#.csproj.CoreCompileInputs.cache
+E:\EstructuraSemantica_ProyectoFinal\Funcion de Ackermann C#\bin\Debug\netcoreapp3.1\Funcion de Ackermann C#.exe
+E:\EstructuraSemantica_ProyectoFinal\Funcion de Ackermann C#\bin\Debug\netcoreapp3.1\Funcion de Ackermann C#.deps.json
+E:\EstructuraSemantica_ProyectoFinal\Funcion de Ackermann C#\bin\Debug\netcoreapp3.1\Funcion de Ackermann C#.runtimeconfig.json
+E:\EstructuraSemantica_ProyectoFinal\Funcion de Ackermann C#\bin\Debug\netcoreapp3.1\Funcion de Ackermann C#.runtimeconfig.dev.json
+E:\EstructuraSemantica_ProyectoFinal\Funcion de Ackermann C#\bin\Debug\netcoreapp3.1\Funcion de Ackermann C#.dll
+E:\EstructuraSemantica_ProyectoFinal\Funcion de Ackermann C#\bin\Debug\netcoreapp3.1\Funcion de Ackermann C#.pdb
+E:\EstructuraSemantica_ProyectoFinal\Funcion de Ackermann C#\obj\Debug\netcoreapp3.1\Funcion de Ackermann C#.dll
+E:\EstructuraSemantica_ProyectoFinal\Funcion de Ackermann C#\obj\Debug\netcoreapp3.1\Funcion de Ackermann C#.pdb
+E:\EstructuraSemantica_ProyectoFinal\Funcion de Ackermann C#\obj\Debug\netcoreapp3.1\Funcion de Ackermann C#.genruntimeconfig.cache
+E:\EstructuraSemantica_ProyectoFinal\Multipliacion Rusa C#\bin\Debug\netcoreapp3.1\Funcion de Ackermann C#.exe
+E:\EstructuraSemantica_ProyectoFinal\Multipliacion Rusa C#\bin\Debug\netcoreapp3.1\Funcion de Ackermann C#.deps.json
+E:\EstructuraSemantica_ProyectoFinal\Multipliacion Rusa C#\bin\Debug\netcoreapp3.1\Funcion de Ackermann C#.runtimeconfig.json
+E:\EstructuraSemantica_ProyectoFinal\Multipliacion Rusa C#\bin\Debug\netcoreapp3.1\Funcion de Ackermann C#.runtimeconfig.dev.json
+E:\EstructuraSemantica_ProyectoFinal\Multipliacion Rusa C#\bin\Debug\netcoreapp3.1\Funcion de Ackermann C#.dll
+E:\EstructuraSemantica_ProyectoFinal\Multipliacion Rusa C#\bin\Debug\netcoreapp3.1\Funcion de Ackermann C#.pdb
+E:\EstructuraSemantica_ProyectoFinal\Multipliacion Rusa C#\obj\Debug\netcoreapp3.1\Funcion de Ackermann C#.csprojAssemblyReference.cache
+E:\EstructuraSemantica_ProyectoFinal\Multipliacion Rusa C#\obj\Debug\netcoreapp3.1\Funcion de Ackermann C#.AssemblyInfoInputs.cache
+E:\EstructuraSemantica_ProyectoFinal\Multipliacion Rusa C#\obj\Debug\netcoreapp3.1\Funcion de Ackermann C#.AssemblyInfo.cs
+E:\EstructuraSemantica_ProyectoFinal\Multipliacion Rusa C#\obj\Debug\netcoreapp3.1\Funcion de Ackermann C#.csproj.CoreCompileInputs.cache
+E:\EstructuraSemantica_ProyectoFinal\Multipliacion Rusa C#\obj\Debug\netcoreapp3.1\Funcion de Ackermann C#.dll
+E:\EstructuraSemantica_ProyectoFinal\Multipliacion Rusa C#\obj\Debug\netcoreapp3.1\Funcion de Ackermann C#.pdb
+E:\EstructuraSemantica_ProyectoFinal\Multipliacion Rusa C#\obj\Debug\netcoreapp3.1\Funcion de Ackermann C#.genruntimeconfig.cache

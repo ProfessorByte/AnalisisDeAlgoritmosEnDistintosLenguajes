@@ -1,0 +1,13 @@
+E:\EstructuraSemantica_ProyectoFinal\Multipliacion Rusa C#\bin\Debug\netcoreapp3.1\Multiplicacion Rusa C#.exe
+E:\EstructuraSemantica_ProyectoFinal\Multipliacion Rusa C#\bin\Debug\netcoreapp3.1\Multiplicacion Rusa C#.deps.json
+E:\EstructuraSemantica_ProyectoFinal\Multipliacion Rusa C#\bin\Debug\netcoreapp3.1\Multiplicacion Rusa C#.runtimeconfig.json
+E:\EstructuraSemantica_ProyectoFinal\Multipliacion Rusa C#\bin\Debug\netcoreapp3.1\Multiplicacion Rusa C#.runtimeconfig.dev.json
+E:\EstructuraSemantica_ProyectoFinal\Multipliacion Rusa C#\bin\Debug\netcoreapp3.1\Multiplicacion Rusa C#.dll
+E:\EstructuraSemantica_ProyectoFinal\Multipliacion Rusa C#\bin\Debug\netcoreapp3.1\Multiplicacion Rusa C#.pdb
+E:\EstructuraSemantica_ProyectoFinal\Multipliacion Rusa C#\obj\Debug\netcoreapp3.1\Multiplicacion Rusa C#.csprojAssemblyReference.cache
+E:\EstructuraSemantica_ProyectoFinal\Multipliacion Rusa C#\obj\Debug\netcoreapp3.1\Multiplicacion Rusa C#.AssemblyInfoInputs.cache
+E:\EstructuraSemantica_ProyectoFinal\Multipliacion Rusa C#\obj\Debug\netcoreapp3.1\Multiplicacion Rusa C#.AssemblyInfo.cs
+E:\EstructuraSemantica_ProyectoFinal\Multipliacion Rusa C#\obj\Debug\netcoreapp3.1\Multiplicacion Rusa C#.csproj.CoreCompileInputs.cache
+E:\EstructuraSemantica_ProyectoFinal\Multipliacion Rusa C#\obj\Debug\netcoreapp3.1\Multiplicacion Rusa C#.dll
+E:\EstructuraSemantica_ProyectoFinal\Multipliacion Rusa C#\obj\Debug\netcoreapp3.1\Multiplicacion Rusa C#.pdb
+E:\EstructuraSemantica_ProyectoFinal\Multipliacion Rusa C#\obj\Debug\netcoreapp3.1\Multiplicacion Rusa C#.genruntimeconfig.cache
